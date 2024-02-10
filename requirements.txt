@@ -1,11 +1,4 @@
-jupyter
-librosa
-pandas
-pytorch_lightning
-scikit-learn
-seaborn
-soundfile
-tqdm
+fastapi
+gunicorn
+uvicorn
 TTS
-tensorboard
-wandb
